@@ -1,4 +1,4 @@
 module RailsUeditor
-  VERSION = "0.1.0"
+  VERSION = "0.2.0"
   UEDITOR_VERSION = "1.4.3"
 end
